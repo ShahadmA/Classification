@@ -11,7 +11,7 @@ The success or failure of a company often depends on the competence of its emplo
 
 
 ## Data Description: 
-A dataset the data that will be used in this project is downloaded from Kaggle.com (https://www.kaggle.com/arashnic/hr-ana). The data is HR analytics data based on a multinational corporation with many departments
+A dataset the data that will be used in this project is downloaded from Kaggle.com (https://www.kaggle.com/arashnic/hr-ana). The data is 
 * Columns: 13 Columns
 * Rows: 50804 rows.
 * Data size: 13*50000
