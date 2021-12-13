@@ -14,7 +14,7 @@ The success or failure of a company often depends on the competence of its emplo
 A dataset the data that will be used in this project is downloaded from Kaggle.com (https://www.kaggle.com/arashnic/hr-ana). The dataset contains:
 * Features: (Employee ID,	Department,	Region, Education,	Gender,	Recruitment channel, No of trainings,	Age,	Previous year rating,	Length of service,	Awards won,	Avrege training score)
 * Target: (Is promoted)
-* Rows: 50804 rows.
+* Rows: 54808 rows.
 * Data size: 13*50000
 * Data type: text, integer.
 
