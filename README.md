@@ -6,7 +6,7 @@
 
 ## Data Description: 
 
-A dataset is about .... the dataset contains:
+
 	
 * Columns: ( ).
 
