@@ -1,4 +1,4 @@
-## Predicting qualified employees for promotion using Classification models
+## Predicting qualified employees for promotion using Classification Models
 
 
 ## Problem statement:
