@@ -36,7 +36,7 @@ Predicting outstanding employees who are qualified for promotion.
 
 
 # By
+*  Shahad Almutairi
 * Sahar AL-Harthi 
-* Ghaida Alaqeel  
-* Shahad Almutairi
+*  Ghaida Alaqeel  
 
