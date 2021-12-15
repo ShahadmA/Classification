@@ -3,4 +3,4 @@
 * The goal of the project is predicting outstanding employees who are qualified for promotion.
 
 
-![heatmapforclassifi](https://user-images.githubusercontent.com/93095814/146265923-b7e66b94-c9f5-4e51-af22-9253fe3ab70d.png)
+![heatmapforclassifi](https://user-images.githubusercontent.com/93095814/146266958-26f4a3b8-3a06-4fe0-9620-a6ba24fbf967.png)
