@@ -1,4 +1,4 @@
-<h2>  Predict and choose the deserve promoted employee <b>model</b> </h2>
+<h2>  Predicting employees for promotion <b>model</b> </h2>
 
 <br>
 
